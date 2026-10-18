@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**zayothmane33-cpu/zayothmane33-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Othman
 
-Here are some ideas to get you started:
+Frontend Developer focusing on clean architecture, modern user interfaces, and modular systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Present
+- Specializing in HTML, CSS, JavaScript, and client-side engineering.
+- Building high-performance web applications and utility-focused CLI tooling.
+
+### Direction
+- Expanding into Full-Stack Software Engineering.
+- Designing scalable web solutions and secure systems.
+
+### Arsenal
+- Languages: JavaScript, Python, HTML, CSS
+
+
