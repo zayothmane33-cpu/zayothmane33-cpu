@@ -9,8 +9,7 @@ Frontend Developer focusing on clean architecture, modern user interfaces, and m
 - Building high-performance web applications and utility-focused CLI tooling.
 
 ### Direction
-- Expanding into Full-Stack Software Engineering.
-- Designing scalable web solutions and secure systems.
+- Expanding into Full-Stack Web Developer.
 
 ### Arsenal
 - Languages: JavaScript, Python, HTML, CSS
